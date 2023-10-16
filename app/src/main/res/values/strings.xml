@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Firebase Login Authentication</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="conformpassword">Conform Password</string>
+    <string name="str_create_account">CREATE ACCOUNT</string>
+    <string name="str_sign_in">Sign In</string>
+    <string name="str_or">or</string>
+    <string name="str_congratulation_you_are_signed_in">Congratulation ! You Are Signed In</string>
+    <string name="str_sign_out">sign out</string>
+    <string name="str_sign_in_google">SignIn With Google</string>
+    <string name="crash">Crash</string>
+</resources>
